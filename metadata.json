@@ -1,0 +1,6 @@
+{
+  "name": "Chronoverse: Motor Multiversal de Rol Interactivo",
+  "description": "Motor de historias interactivas y Game Master multiversal en Ciencia Ficción, Fantasía Oscura y Misterio Noir con ramificación de realidades y elecciones de alto impacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
